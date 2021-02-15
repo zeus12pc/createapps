@@ -1,2 +1,2 @@
 # createapps
-samplepo
+sample readme
